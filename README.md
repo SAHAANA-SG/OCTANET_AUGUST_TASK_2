@@ -21,4 +21,4 @@ This project is a simple to-do list web application developed using HTML and CSS
 You can modify the styles in `styles.css` to change the appearance of the to-do list.
 
 **##Images**
-Ensure that you have the images downloaded in your directory in the name that is mentioned in the code along with the mentioned exception
+Ensure that you have the images downloaded in your directory in the name that is mentioned in the code along with the mentioned extension
